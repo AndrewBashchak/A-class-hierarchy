@@ -1,2 +1,1 @@
-# A-class-hierarchy
-Using child classes
+# Andrew Bashchak, student of KDU, group: SEs-24-2
